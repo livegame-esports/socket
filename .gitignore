@@ -1,0 +1,11 @@
+# Ignoring paths
+/node_modules/
+/dist/
+
+# Evironment files
+.env
+.env.config
+.env.local
+
+# Temp files path
+/temp/
